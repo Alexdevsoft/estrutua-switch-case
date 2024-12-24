@@ -1,1 +1,1 @@
-# Estrutua Switch Case
+# Estrutura Switch Case
